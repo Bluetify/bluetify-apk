@@ -1,0 +1,4 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  audioplayers: ^1.0.1
